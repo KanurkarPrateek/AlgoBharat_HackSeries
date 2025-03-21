@@ -1,8 +1,6 @@
 # Algorand AI Assistant
 
-## Team Saartha
-- **Prateek Kanurkar** – prateekkanurkar@gmail.com
-- **Anchita Sharma** – anchitasharma31454@gmail.com
+
 
 ## Project Proposal
 
