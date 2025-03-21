@@ -10,7 +10,7 @@
 Our version of Algorand AI Assistant is an advanced, MCP server-augmented AI solution designed to accelerate development on the Algorand blockchain. By combining a powerful language model with real-time data access and specialized tools, this assistant will provide developers with contextual guidance, up-to-date information, and automated support throughout their Algorand development journey.
 
 
-![](./image1.gif){width="6.270833333333333in"
+![](./image3.png){width="6.270833333333333in"
 height="6.927083333333333in"}
 *Implementation Diagram - Architecture*
 
